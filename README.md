@@ -1,0 +1,2 @@
+# clojars-triptrap
+Proving ownership
